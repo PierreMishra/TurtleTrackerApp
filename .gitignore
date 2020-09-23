@@ -1,0 +1,4 @@
+# ignore spyder batch file\
+OpenSpyder.bat
+# ignore the spyder project foler
+.spyproject/*
